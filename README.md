@@ -1,5 +1,5 @@
 # Mouse-movement-using-facial-and-eye-gestures
- Hello every body in this project a want Mouse movement using facial and eye gestures
+ Hello every body in this project i want Mouse movement by using facial and eye gestures
 
 
 # import libraries 
